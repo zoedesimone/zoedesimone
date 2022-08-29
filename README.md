@@ -8,7 +8,7 @@
 
 👩‍💻 Previously studied at Cornell University and co-developed [Eddy3D](https://www.eddy3d.com/).   
 
-💬 Ask me about ML, computational design & architecture.
+💬 Ask me about ML, computational design, & architecture.
 
 📫 Reach me at zoed@mit.edu
 
