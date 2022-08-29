@@ -6,8 +6,10 @@
 
 🔭 I’m currently working with prof. Christoph Reinhart in the Sustainable Design Lab (SDL).
 
+👩‍💻 Previously studied at Cornell University and co-developed Eddy3D.   
+
 💬 Ask me about ML, computational design & architecture.
 
-📫 How to reach me: zoed@mit.edu
+📫 Reach me at zoed@mit.edu
 
 😄 Pronouns: she/her/hers.
