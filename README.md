@@ -6,7 +6,7 @@
 
 🔭 I’m currently working with prof. Christoph Reinhart in the Sustainable Design Lab (SDL).
 
-👩‍💻 Previously studied at Cornell University and co-developed Eddy3D.   
+👩‍💻 Previously studied at Cornell University and co-developed [Eddy3D](https://www.eddy3d.com/).   
 
 💬 Ask me about ML, computational design & architecture.
 
