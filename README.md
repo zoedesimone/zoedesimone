@@ -10,6 +10,6 @@
 
 💬 Ask me about ML, computational design, & architecture.
 
-📫 Reach me at zoed@mit.edu
+📫 Reach me at zoe at mit dot edu
 
 😄 Pronouns: she/her/hers.
