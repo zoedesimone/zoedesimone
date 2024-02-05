@@ -4,7 +4,7 @@
 
 🌱 I’m a dual EECS & Building Technology MS student @ MIT.
 
-🔭 I’m currently working prof. Ashia Wilson and Arvind Satyanarayan in CSAIL on Fairness of Generative AI models. 
+🔭 I’m currently working prof. Ashia Wilson and Arvind Satyanarayan in CSAIL on Human AI-alignment in Generative AI models. 
 
 🔭 and with prof. Christoph Reinhart in the Sustainable Design Lab (SDL) on decision making tools for building decarbonization. 
 
