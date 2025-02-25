@@ -1,17 +1,13 @@
-👋 Hi there, I’m @zoedesimone, but I also go by Zoe.
+# 👋 Hi, I'm Zoe!  
 
-👀 I’m primarily interested in ML, design & sustainability, but often stray into software development and comuptational design.
+## I'm a **PhD student in Computer Science** at [MIT](https://www.eecs.mit.edu/) and a **National Science Foundation (NSF) Graduate Research Fellow**. 
 
-🌱 I’m a dual EECS & Building Technology MS student @ MIT.
+🔬 I work with [Ashia Wilson](https://www.ashiawilson.com/) and [Arvind Satyanarayan](https://vis.csail.mit.edu/) in the **Computer Science & Artificial Intelligence Laboratory (CSAIL)**, focusing on **Human AI-alignment in Generative AI models**. 
 
-🔭 I’m currently working prof. Ashia Wilson and Arvind Satyanarayan in CSAIL on Human AI-alignment in Generative AI models. 
+🏙️ Previously, I completed my Master's in **Building Technology** and **EECS** at MIT, advised by Christoph Reinhart in the [Sustainable Design Lab](https://web.mit.edu/sustainabledesignlab/), where I worked on **decision-making tools for building decarbonization**: help cities optimally meet **emission reduction targets** whilst considering equity .  
 
-🔭 and with prof. Christoph Reinhart in the Sustainable Design Lab (SDL) on decision making tools for building decarbonization. 
+🏗️ Before that, I earned my **B.Arch. from Cornell University**, advised by [Jenny Sabin](https://www.jennysabin.com/) and Timur Dogan in the [Environmental Systems Lab](https://es.aap.cornell.edu/), where I co-developed [Eddy3D](https://www.eddy3d.com/). My undergraduate thesis focused on **surrogate machine learning models for airflow simulations in buildings**.  
 
-👩‍💻 Previously studied at Cornell University and co-developed [Eddy3D](https://www.eddy3d.com/).   
+💼 I’ve previously worked as a quant at **Point72**, working in a **macro pod** focused on **futures and derivatives**, as well as an **intern at SmartFab**, working on AI & analytics for industrial manufacturing.  
 
-💬 Ask me about ML, computational design, & architecture.
-
-📫 Reach me at zoe at mit dot edu
-
-😄 Pronouns: she/her/hers.
+📬 Reach me at **zoe at mit dot edu**  
