@@ -8,6 +8,6 @@
 
 🏗️ Before that, I earned my **B.Arch. from Cornell University**, advised by [Jenny Sabin](https://www.jennysabin.com/) and Timur Dogan in the [Environmental Systems Lab](https://es.aap.cornell.edu/), where I co-developed [Eddy3D](https://www.eddy3d.com/). My undergraduate thesis focused on **surrogate machine learning models for airflow simulations in buildings**.  
 
-💼 I’ve previously worked as a quant at **Point72**, working in a **macro pod** focused on **futures and derivatives**, as well as an **intern at SmartFab**, working on AI & analytics for industrial manufacturing.  
+💼 I’ve previously worked as a **quant at [Point72](https://point72.com/)**, working in a macro pod focused on futures and derivatives, as well as an **intern at [SmartFab](https://www.smartfab.ai/)**, working on AI & analytics for industrial manufacturing.  
 
 📬 Reach me at **zoe at mit dot edu**  
