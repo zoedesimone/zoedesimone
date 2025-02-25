@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zoe!  
 
-## I'm a **PhD student in Computer Science** at [MIT](https://www.eecs.mit.edu/) and a **National Science Foundation (NSF) Graduate Research Fellow**. 
+I'm a **PhD student in Computer Science** at [MIT](https://www.eecs.mit.edu/) and a **National Science Foundation (NSF) Graduate Research Fellow**. 
 
 🔬 I work with [Ashia Wilson](https://www.ashiawilson.com/) and [Arvind Satyanarayan](https://vis.csail.mit.edu/) in the **Computer Science & Artificial Intelligence Laboratory (CSAIL)**, focusing on **Human AI-alignment in Generative AI models**. 
 
